@@ -23,15 +23,6 @@ This is the capstone project for an introductory Python course on mathematical m
 
 ## Getting started
 
-### Requirements
-
-- Python 3.10+
-- [matplotlib](https://matplotlib.org/)
-
-```bash
-pip install matplotlib
-```
-
 ### Run the simulation
 
 ```bash
@@ -117,6 +108,6 @@ Positions are in meters, velocities in m/s, masses in kg, and times in seconds.
 - **2D only.** All motion is in a single plane.
 - **Instantaneous burns.** Each burn is an impulsive velocity change, not a finite-duration thrust.
 
-## Acknowledgements
+## AI Assistance Acknowledgements
 
-`Report.py`, `Visualize.py`, and the escape-trajectory helpers in `simulation.py` were written with AI assistance. Each one is marked in its source.
+`Report.py` and `Visualize.py` were written with AI assistance. Each one is marked in its source.
